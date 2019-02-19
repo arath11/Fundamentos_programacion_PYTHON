@@ -1,0 +1,6 @@
+#Julio Rosales Oliden
+#A01630738
+
+numero=float(input("Inserta el numero "))
+
+while (numero<=9):

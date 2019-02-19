@@ -1,0 +1,3 @@
+nombre="Pedro"
+For letra for nombre:
+  print(letra)

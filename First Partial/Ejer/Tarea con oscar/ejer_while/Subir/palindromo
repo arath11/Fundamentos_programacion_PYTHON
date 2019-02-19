@@ -1,0 +1,7 @@
+primera=str(input("Primera palabra"))
+segunda=str(input("Segunda palabra"))
+if primera!=none:
+
+else:
+  Print(escriba una palabra valida"
+  )

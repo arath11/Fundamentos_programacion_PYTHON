@@ -1,0 +1,13 @@
+num=float(input("Dame el valor de x \n"))
+if num <=-1:
+  x = 2*num
+  print(x)
+elif num>-1 and num<1:
+  x=num*2+1
+  print(x)
+elif num>=1 and num<4:
+  x=-num+4
+  print(x)
+elif num>=4:
+  x=num-1
+  print(x)

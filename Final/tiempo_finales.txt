@@ -1,0 +1,45 @@
+Este archivo dice el tiempo total que cada corredor realizo y quien fue el ganador de la competencia
+El corredor Juan realizo un tiempo de 20.6
+El corredor Pedro realizo un tiempo de 20.9
+El corredor Manuel realizo un tiempo de 20.8
+El corredor Tamara realizo un tiempo de 20.8
+El corredor Fernando realizo un tiempo de 22.5
+El corredor Fátima realizo un tiempo de 27.7
+El corredor Gumercindo realizo un tiempo de 26.8
+El corredor Sonia realizo un tiempo de 24.3
+El corredor Magdalena realizo un tiempo de 26.5
+El corredor Sara realizo un tiempo de 21.2
+El corredor Ricardo realizo un tiempo de 25.3
+El corredor Karla realizo un tiempo de 23.8
+El corredor Yadira realizo un tiempo de 22.5
+El corredor Teresa realizo un tiempo de 16.7
+El corredor Pancracio realizo un tiempo de 24.4
+El corredor Uriel realizo un tiempo de 22.1
+El corredor Agustín realizo un tiempo de 23.9
+El corredor Eduardo realizo un tiempo de 23.3
+El corredor Amanda realizo un tiempo de 27.9
+El corredor Berenice realizo un tiempo de 23.2
+El corredor Fabiola realizo un tiempo de 19.2
+El corredor Pamela realizo un tiempo de 25.4
+El corredor Wendy realizo un tiempo de 25.6
+El corredor Zacarías realizo un tiempo de 21.0
+El corredor Manolo realizo un tiempo de 23.7
+El corredor René realizo un tiempo de 32.7
+El corredor Paulina realizo un tiempo de 20.8
+El corredor Andrea realizo un tiempo de 27.2
+El corredor Javier realizo un tiempo de 20.8
+El corredor Enia realizo un tiempo de 22.3
+El corredor Patricia realizo un tiempo de 24.8
+El corredor Rómulo realizo un tiempo de 17.6
+El corredor Francisco realizo un tiempo de 21.8
+El corredor Jesús realizo un tiempo de 26.3
+El corredor Sharon realizo un tiempo de 27.1
+El corredor Fernanda realizo un tiempo de 23.3
+El corredor Iliana realizo un tiempo de 21.6
+El corredor Miriam realizo un tiempo de 21.3
+El corredor Gerardo realizo un tiempo de 26.2
+El corredor Mónica realizo un tiempo de 22.0
+El corredor Luis realizo un tiempo de 28.6
+El corredor Juan Antonio realizo un tiempo de 26.2
+El corredor Bernardo realizo un tiempo de 25.6
+El corredor que gano la competencia fue Teresa, quien hizo el menor tiempo con 16.68

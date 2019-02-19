@@ -1,0 +1,15 @@
+def suma_naturales(cantidad):
+    numero=0
+    cantidad+=1
+
+
+
+
+
+
+
+
+
+
+cantidad=int(input("Cuantos numeros naturales se sumaran?"))
+suma_naturales(cantidad)

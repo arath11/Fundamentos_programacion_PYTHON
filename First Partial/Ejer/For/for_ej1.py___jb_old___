@@ -1,0 +1,40 @@
+#print("\n")
+#Escribir del 1 al 10
+#for x in range(1,11,1):
+#    print(x)
+
+#def imprimir_nombre(nombre):
+#    for x in range(5):
+#        print(nombre)
+
+nombre=str(input("Escribe un nombre:\n"))
+imprimir_nombre(nombre)
+
+
+
+def numeros_suma(cantidad):
+    sum=0
+    for x in range(cantidad):
+        sum+=float(input("Please give me a number"))
+    print(sum)
+
+cantidad=int(input("How many times?"))
+numeros_suma(cantidad)
+
+
+
+
+def numeros_suma(cantidad):
+    par=0
+    in=0
+    for x in range(cantidad):
+        numero=float(input("Dame un numero, sea par o in "))
+        if numero%2==0:
+            par+=1
+        else:
+            in+=1
+    print(par, " fueron pares")
+    print(in, "fueron inpares")
+
+#cantidad=int(input("How many numbers?"))
+#numeros_suma(cantidad)
